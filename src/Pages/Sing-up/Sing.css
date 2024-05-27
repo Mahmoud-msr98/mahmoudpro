@@ -1,0 +1,17 @@
+.img{
+    background-image: url("../../Image/amazing-aerial-shot-singapore-cityscape-with-lots-skyscrapers.jpg")
+}
+@media (max-width:600px) {
+    .sect{
+        display: block;
+    }
+
+    .spam{
+        position: absolute;
+        bottom: 15px;
+       
+    }
+    .s{
+        font-size: 10px;
+    }
+}
