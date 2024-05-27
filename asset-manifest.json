@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mahmoudpro/static/css/main.945ec5c6.css",
+    "main.js": "/mahmoudpro/static/js/main.2e5cdb76.js",
+    "static/media/amazing-aerial-shot-singapore-cityscape-with-lots-skyscrapers.jpg": "/mahmoudpro/static/media/amazing-aerial-shot-singapore-cityscape-with-lots-skyscrapers.ce185984469625a459cd.jpg",
+    "static/media/Rectangle 82.jpg": "/mahmoudpro/static/media/Rectangle 82.fd79ce81fb8373ce56cd.jpg",
+    "index.html": "/mahmoudpro/index.html",
+    "main.945ec5c6.css.map": "/mahmoudpro/static/css/main.945ec5c6.css.map",
+    "main.2e5cdb76.js.map": "/mahmoudpro/static/js/main.2e5cdb76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.945ec5c6.css",
+    "static/js/main.2e5cdb76.js"
+  ]
+}
